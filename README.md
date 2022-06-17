@@ -1,18 +1,21 @@
 BPM
 ===
 
+orignal code by @bahamas10
+edits by @gooch12013 
+
 Calculate BPM by tapping
+
+Changes
+------
+
+ * added reset after 8 seconds
+ * added reset after 16 taps
+
 
 Install
 ------
-
-Install the command line tool `bpm`
-
-    npm install -g bpm
-
-Install locally to use as a module
-
-    npm install bpm
+you will have to install by yourself dy downloading  the zip file and placing it in the the proper directory
 
 Usage
 -----
